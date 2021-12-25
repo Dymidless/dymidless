@@ -1,29 +1,33 @@
-## Hi, I'm Dymidless
- <div>
-  <a href="https://github.com/Dymidless">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dymidless&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dymidless&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+### - 🍭 About me 
+👋 Hello! I'm Dymidless, a **Backend / Frontend** developer 
 
+- 🌎 Spain.
+- ✨ GekoBot developer.
+- 🏳️‍🌈 He/Him
 
+<br />
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/837574177782759434/876094519328780298/41d9f783520cc8700367c4653ae529df.gif">
-</div>
- 
-<div> 
-  <a href="https://twitter.com/dymidless" target="_blank"><img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/dymidless" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/users/749895975694499930" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:dymidless@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+![Dymidless Github Stats](https://github-readme-stats.vercel.app/api?username=Dymidless&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+<br />
+
+*************
+
+<br />
+
+### - 🔧 Languages and tools
+
+<p align="center">
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript" style="max-width: 100%;"> 
+<img src="https://img.shields.io/badge/typescript%20-%23323330.svg?&style=for-the-badge&logo=typescript" style="max-width: 100%;"> 
+<img src="https://img.shields.io/badge/html%20-%23323330.svg?&style=for-the-badge&logo=html5" style="max-width: 100%;"> 
+<img src="https://camo.githubusercontent.com/b5c4519ce970335a453e2ea060a67acc552d8440ecd47c3d164b3edbfe38c87c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6373732532302d2532333332333333302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d253233306337636330" style="max-width: 100%;"> 
+<img src="https://camo.githubusercontent.com/c3e87bd242aa662047aaf54d7a2c10732cb2dc3dfc89830fac83e0d09f16de54/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5673436f64652532302d2532333332333333302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c73747564696f266c6f676f436f6c6f723d253233323361626632" style="max-width: 100%;"> 
+<img src="https://img.shields.io/badge/mongodb%20-%23323330.svg?&style=for-the-badge&logo=mongodb" data-canonical-src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript" style="max-width: 100%;">
+</p>
+
+### Social media
+
+[![Twitter](https://img.shields.io/twitter/url?color=1da1f2&label=Twitter&logo=twitter&logoColor=1da1f2&style=flat-square&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FFatChicken277)](https://twitter.com/Dymidless)
+[![Spotify](https://img.shields.io/twitter/url?color=1ed760&label=Spotify&logo=spotify&logoColor=1ed760&style=flat-square&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FFatChicken277)](https://open.spotify.com/user/	hgmxsvyfodx30lckkl9j8zb3l)
+[![Discord](https://img.shields.io/twitter/url?color=7289da&label=Discord&logo=discord&logoColor=7289da&style=flat-square&url=https%3A%2F%2Fdiscord.com%3A%2F%2)](https://discord.com/users/749895975694499930)
