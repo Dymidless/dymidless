@@ -1,7 +1,7 @@
 <h1 align="center">Welcome!</h1>
 <p align="center">Thanks for stopping by my profile, it's really appreciated even if you don't believe it.</p>
 <p align ="center"><img src="https://komarev.com/ghpvc/?username=dymidless&style=flat-square&label=Super+cool+count"></p>
-<p align ="center">Contact me: <strong>Dymidless#1840</strong></p>
+<p align ="center">Contact me: <strong>dymidless#1840</strong></p>
 
 
 <p align="center"> 
